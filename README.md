@@ -2,9 +2,6 @@
 
 <h2>Atualmente cursando superior em analise e desenvolvimento de sistemas - Fatec SP</h2>
 
-### Minhas informações:
-[![E-mail : gabrielg-cruz@hotmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](gabrielg-cruz@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/gabriel-gomes-da-cruz-a967a22b0)
 <hr>
 
 ### Linguagens:
@@ -24,3 +21,7 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Minhas informações:
+[![E-mail : gabrielg-cruz@hotmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](gabrielg-cruz@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/gabriel-gomes-da-cruz-a967a22b0)
