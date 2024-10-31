@@ -2,17 +2,15 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/gabriel-gomes-da-cruz-a967a22b0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="gabrielg-cruz@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="80" height="40" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
-###
 
+###
+<hr>
 <h2 align="center">Linguagens que possuo experiencia:</h2>
 
 ###
@@ -32,7 +30,7 @@
 </div>
 
 ###
-
+<hr>
 <h2 align="center">Outras Tecnologias que estou habituado:</h2>
 
 ###
@@ -54,7 +52,7 @@
 </div>
 
 ###
-
+<hr>
 <h3 align="center">Estatisticas:</h3>
 
 ###
