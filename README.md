@@ -51,6 +51,23 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
+<hr>
+
+
+<h2 align="center">Bancos de Dados:</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
 ###
 <hr>
 <h3 align="center">Estatisticas:</h3>
