@@ -10,12 +10,12 @@
 
 
 ###
-
 <hr>
+<br>
 <h2 align="center">Linguagens que possuo experiencia:</h2>
 
 ###
-<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="40" />
@@ -32,10 +32,11 @@
 <br>
 
 <hr>
+<br>
 <h2 align="center">Outras Tecnologias que estou habituado:</h2>
 
 ###
-<br>
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
   <img width="40" />
